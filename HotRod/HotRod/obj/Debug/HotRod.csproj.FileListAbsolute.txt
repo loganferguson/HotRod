@@ -1,0 +1,13 @@
+C:\Users\lferg\source\repos\HotRod\HotRod\bin\Debug\HotRod.exe.config
+C:\Users\lferg\source\repos\HotRod\HotRod\bin\Debug\HotRod.exe
+C:\Users\lferg\source\repos\HotRod\HotRod\bin\Debug\HotRod.pdb
+C:\Users\lferg\source\repos\HotRod\HotRod\obj\Debug\HotRod.csprojAssemblyReference.cache
+C:\Users\lferg\source\repos\HotRod\HotRod\obj\Debug\HotRod.Form1.resources
+C:\Users\lferg\source\repos\HotRod\HotRod\obj\Debug\HotRod.Properties.Resources.resources
+C:\Users\lferg\source\repos\HotRod\HotRod\obj\Debug\HotRod.csproj.GenerateResource.cache
+C:\Users\lferg\source\repos\HotRod\HotRod\obj\Debug\HotRod.exe
+C:\Users\lferg\source\repos\HotRod\HotRod\obj\Debug\HotRod.pdb
+C:\Users\lferg\source\repos\HotRod\HotRod\bin\Debug\HotRod.exe.manifest
+C:\Users\lferg\source\repos\HotRod\HotRod\bin\Debug\HotRod.application
+C:\Users\lferg\source\repos\HotRod\HotRod\obj\Debug\HotRod.exe.manifest
+C:\Users\lferg\source\repos\HotRod\HotRod\obj\Debug\HotRod.application
